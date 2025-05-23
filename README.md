@@ -79,3 +79,19 @@ CREATE TABLE employees (
 - Lightweight and simple architecture.
 - Easily extendable to include advanced features like authentication, file uploads, and department modules.
 
+---
+
+## 📸 Screenshots
+
+
+- <img src = "output screenshots/1.png" alt = "1 image">
+- <img src = "output screenshots/2.png" alt = "2 image">
+- <img src = "output screenshots/3.png" alt = "3 image">
+- <img src = "output screenshots/4.png" alt = "4 image">
+- <img src = "output screenshots/5.png" alt = "5 image">
+- <img src = "output screenshots/6.png" alt = "6 image">
+- <img src = "output screenshots/7.png" alt = "7 image">
+- <img src = "output screenshots/8.png" alt = "8 image">
+
+---
+
